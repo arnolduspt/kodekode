@@ -6,3 +6,8 @@
 	  x[i].src = x[i].src.replace(/[0-4]+.bp/, '3.bp');
 	} //]]>
 	</script>
+
+copy kode diatas dan paste di atas tag </body> atau &lt;!--</body>--&gt;&lt;/body&gt;
+
+*NOTE!!
+bebas dibagikan ulang tanpa credit, toh ilmunya juga dari internet :D
